@@ -7,9 +7,9 @@ the strengths of Transformer, Mamba and Fourier Transform for visual details ref
 based on retinex decomposition, as well as fine-grained enhancement through dual-domain hybrid structure. Comprehensive experiments on public benchmark paired and unpaired datasets have
 demonstrated that the proposed FourierTMamba significantly outperforms state-of-the-art methods with relative lightweight computation burdens.
 
-![visual_results](visual.jpg)
+![visual_results](fig/visual.jpg)
 
-![model struct](model.png)
+![model struct](fig/model.png)
 
 ## Installation
 The project is built with Python 3.8, PyTorch 1.8.1. CUDA 10.2, cuDNN 7.6.5
