@@ -25,6 +25,7 @@ Performance results of the FourierTMamba trained on paired dataset
 Performance results of the FourierTMamba trained on paired dataset
 <summary><strong>Visual Results</strong></summary>
 <img src = "fig/unpaired.png"> 
+
 ## Installation
 The project is built with Python 3.8, PyTorch 1.8.1. CUDA 10.2, cuDNN 7.6.5
 ~~~
