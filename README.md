@@ -8,5 +8,19 @@ based on retinex decomposition, as well as fine-grained enhancement through dual
 demonstrated that the proposed FourierTMamba significantly outperforms state-of-the-art methods with relative lightweight computation burdens.
 
 ![visual_results](visual.jpg)
+
 ![model struct](model.png)
-code will come soon!
+
+## Installation
+The project is built with Python 3.8, PyTorch 1.8.1. CUDA 10.2, cuDNN 7.6.5
+~~~
+pip install -r requirements.txt
+~~~
+
+## Results (FourierTMamba)
+Performance results of the FourierTMamba trained on LOL dataset
+<summary><strong>Table</strong> </summary>
+<img src = "fig/table.png"> 
+
+<summary><strong>Visual Results</strong></summary>
+<img src = "fig/visual.png"> 
